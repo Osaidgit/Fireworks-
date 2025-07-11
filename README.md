@@ -1,4 +1,4 @@
-🎆 Rainbow Fireworks Show (Python, Pygame)
+🎆# Rainbow Fireworks Show (Python, Pygame)#
 Description:
 Designed and developed an interactive fireworks simulation using Python and Pygame. This project demonstrates basic particle physics, OOP principles, and real-time graphics rendering.
 
